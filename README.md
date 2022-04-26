@@ -5,8 +5,8 @@
 - ☠️ Software Security.
 - ☁️ Cloud Security.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=qianfei11&show_icons=true&theme=radical)
+![B3ale's Github Status](https://github-readme-stats.vercel.app/api?username=qianfei11&show_icons=true&theme=tokyonight)
 
-![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qianfei11&layout=compact&theme=radical)
+![B3ale's Language Status](https://github-readme-stats.vercel.app/api/top-langs/?username=qianfei11&layout=compact&theme=tokyonight)
 
-![B3ale's Blue Github Chart](https://ghchart.rshah.org/409ba5/qianfei11)
+![B3ale's Github Chart](https://activity-graph.herokuapp.com/graph?username=qianfei11&bg_color=black&color=23affc&line=23affc)
