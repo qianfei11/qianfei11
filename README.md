@@ -1,6 +1,6 @@
 ### Hi there, I'm [Beale](http://blog.b3ale.cn/) 👋
 
-- 💻 Linux.
+- 💻 CTFer (PWN & RE).
 - ✏️ Writing Script.
 - ☠️ Software Security.
 - ☁️ Cloud Security.
