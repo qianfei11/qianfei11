@@ -1,4 +1,4 @@
-### Hi there, I'm [Beale](http://blog.b3ale.cn/) 👋
+### Hi there, I'm [Beale](https://qianfei11.github.io/) 👋
 
 - 💻 CTF PWNer.
 - ☠️ Software Security.
